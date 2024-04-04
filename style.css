@@ -86,15 +86,15 @@ p{
 }
 @media only screen and (max-width: 768px) {
     .blog-card {
-        width: 30%; 
+        width: 80%; 
     }
 
     img {
-        width: 60%; 
+        width: 90%; 
         height: auto; 
     }
     p{
-        width: 7.13rem;
+        width: 20.13rem;
     }
 }
 
@@ -103,10 +103,10 @@ p{
         font-size: 1.0rem; 
     }
     img {
-        width: 60%; 
+        width: 80%; 
         height: auto; 
     }
     p{
-        width: 6.13rem;
+        width: 15.13rem;
     }
 }
